@@ -10,9 +10,9 @@
 ## Артефакты
 
 ### BPMN Схемы
-- **AS-IS (Как было):** [Смотреть схему](bpmn/Request_As-Is.svd) | [XML](bpmn/Request_As-Is.bpmn)
+- **AS-IS (Как было):** [Смотреть схему](BPMN/Request_As-Is.svd) | [BPMN](BPMN/Request_As-Is.bpmn)
   - *Проблема:* Ручная пересылка скриншотов, нет валидации данных.
-- **TO-BE (Как будет):** [Смотреть схему](bpmn/Request_To-Be.svd) | [XML](bpmn/Request_To-Be.bpmn)
+- **TO-BE (Как будет):** [Смотреть схему](BPMN/Request_To-Be.svd) | [BPMN](BPMN/Request_To-Be.bpmn)
   - *Решение:* Telegram-бот валидирует данные, отправляет API-запрос в МИС. Реализовано редактирование полей перед отправкой.
 
 ### Документация
