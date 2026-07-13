@@ -18,6 +18,7 @@
 ### Документация
 - [User Flow](docs/userFlow.md) — Сценарии использования бота.
 - [Acceptance Criteria](docs/acceptanceCriteria.md) — Чек-лист для проверки (валидация телефона, обработка ошибок API).
+- [Decisions](docs/decisions.md) - Обоснования по принятым решениям
 
 ## Инструменты
 - Modeling: BPMN 2.0 (bpmn.io)
